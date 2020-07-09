@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://phpthinh96.github.io/project/</link>
-      <atom:link href="https://phpthinh96.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://phpthinh96.github.io/phanhuynhphucthinh.github.io/project/</link>
+      <atom:link href="https://phpthinh96.github.io/phanhuynhphucthinh.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 16:38:53 +0700</lastBuildDate>
     <image>
-      <url>https://phpthinh96.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://phpthinh96.github.io/phanhuynhphucthinh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://phpthinh96.github.io/project/</link>
+      <link>https://phpthinh96.github.io/phanhuynhphucthinh.github.io/project/</link>
     </image>
     
     <item>
       <title>Website Thương mại tiện lợi</title>
-      <link>https://phpthinh96.github.io/project/sieuthi/</link>
+      <link>https://phpthinh96.github.io/phanhuynhphucthinh.github.io/project/sieuthi/</link>
       <pubDate>Wed, 08 Jul 2020 16:38:53 +0700</pubDate>
-      <guid>https://phpthinh96.github.io/project/sieuthi/</guid>
+      <guid>https://phpthinh96.github.io/phanhuynhphucthinh.github.io/project/sieuthi/</guid>
       <description>&lt;p&gt;Website được xây dựng để quảng cáo và thực hiện chức năng buôn bán.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Sử dụng kiến thức PHP căn bản kết hợp Laravel 7 xây dựng phần xử lý&lt;/li&gt;
@@ -46,10 +46,10 @@
 &lt;figure id=&#34;figure-a-caption&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://phpthinh96.github.io/project/sieuthi/image_hu2080b8306a5d8609c6454056d50ed5d6_3815758_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://phpthinh96.github.io/phanhuynhphucthinh.github.io/phanhuynhphucthinh.github.io/project/sieuthi/image_hu2080b8306a5d8609c6454056d50ed5d6_3815758_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://phpthinh96.github.io/project/sieuthi/image_hu2080b8306a5d8609c6454056d50ed5d6_3815758_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1395&#34; height=&#34;4700&#34;&gt;
+  &lt;img data-src=&#34;https://phpthinh96.github.io/phanhuynhphucthinh.github.io/phanhuynhphucthinh.github.io/project/sieuthi/image_hu2080b8306a5d8609c6454056d50ed5d6_3815758_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1395&#34; height=&#34;4700&#34;&gt;
 &lt;/a&gt;
 
 
@@ -67,9 +67,9 @@
     
     <item>
       <title>Application</title>
-      <link>https://phpthinh96.github.io/project/htmlcss/</link>
+      <link>https://phpthinh96.github.io/phanhuynhphucthinh.github.io/project/htmlcss/</link>
       <pubDate>Tue, 07 Jul 2020 18:05:32 +0700</pubDate>
-      <guid>https://phpthinh96.github.io/project/htmlcss/</guid>
+      <guid>https://phpthinh96.github.io/phanhuynhphucthinh.github.io/project/htmlcss/</guid>
       <description>&lt;p&gt;Xây dựng website đơn giản sử dụng html5 và css3 để cắt giao diện&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Sử dụng kiến thức căn bản HTML&lt;/li&gt;
@@ -132,10 +132,10 @@
 &lt;figure id=&#34;figure-a-caption&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://phpthinh96.github.io/project/htmlcss/image-2_hub62c7da23156cefba21bdc0c38da8df7_2610379_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://phpthinh96.github.io/phanhuynhphucthinh.github.io/phanhuynhphucthinh.github.io/project/htmlcss/image-2_hub62c7da23156cefba21bdc0c38da8df7_2610379_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A caption&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://phpthinh96.github.io/project/htmlcss/image-2_hub62c7da23156cefba21bdc0c38da8df7_2610379_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;414&#34; height=&#34;8825&#34;&gt;
+  &lt;img data-src=&#34;https://phpthinh96.github.io/phanhuynhphucthinh.github.io/phanhuynhphucthinh.github.io/project/htmlcss/image-2_hub62c7da23156cefba21bdc0c38da8df7_2610379_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;414&#34; height=&#34;8825&#34;&gt;
 &lt;/a&gt;
 
 
